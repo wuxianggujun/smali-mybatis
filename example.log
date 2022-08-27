@@ -1,0 +1,9 @@
+DEBUG main org.wuxianggujun.samlimybatis.test.ApiTest - hhhh
+INFO main org.wuxianggujun.samlimybatis.test.ApiTest - 你被代理了!! null
+INFO main org.wuxianggujun.samlimybatis.test.ApiTest - 你被代理了!! null
+INFO main org.wuxianggujun.smalimybatis.binding.MapperProxy - org.wuxianggujun.samlimybatis.test.dao.IUserDao
+INFO main org.wuxianggujun.samlimybatis.test.ApiTest - 你被代理了!! null
+INFO main org.wuxianggujun.smalimybatis.binding.MapperProxy - org.wuxianggujun.samlimybatis.test.dao.IUserDao
+INFO main org.wuxianggujun.samlimybatis.test.ApiTest - 你被代理了!! ??????Mapper.xml?е?SQL?????????????????
+INFO main org.wuxianggujun.smalimybatis.binding.MapperProxy - org.wuxianggujun.samlimybatis.test.dao.IUserDao
+INFO main org.wuxianggujun.samlimybatis.test.ApiTest - 你被代理了! queryUserName入参: [Ljava.lang.Object;@1ab3a8c8
